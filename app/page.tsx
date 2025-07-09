@@ -113,7 +113,7 @@ export default function DoctorPortfolio() {
               <div className="relative">
                 <div className="w-80 h-80 lg:w-96 lg:h-96 rounded-full overflow-hidden border-8 border-white shadow-2xl">
                   <img
-                    src="/dr.png?height=400&width=400"
+                    src="./dr.png?height=400&width=400"
                     alt={`Dr. ${doctorData.name}`}
                     className="w-full h-full object-cover"
                   />
