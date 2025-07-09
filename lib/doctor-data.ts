@@ -7,7 +7,7 @@ export const doctorData = {
   bio: "Dr. Ahmad Usman is a board-certified Internal Medicine specialist with extensive experience in diagnosing and treating a wide range of medical conditions. His patient-centered approach combines the latest medical advances with compassionate care, ensuring each patient receives personalized attention and comprehensive treatment.",
   footerDescription:
     "Providing exceptional healthcare services with a focus on patient wellness and preventive medicine.",
-  whatsapp: "03424396121", // Replace with actual WhatsApp number
+  whatsapp: "9203424396121", // Replace with actual WhatsApp number
 
   contact: {
     phone: "+92 342 4396121",
